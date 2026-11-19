@@ -49,10 +49,6 @@ The built-in lists, the chart and search use Apple's public podcast directory. E
 chapters come from each podcast's own feed. Earshot is not connected with Apple or with any podcast or
 publisher; podcast names and artwork belong to their owners.
 
-## Building
-
-The app is in the `android` folder. See `android/README.md`.
-
 ## Licence
 
-© 2026 Jonathan Jackson. Published under the GNU General Public License, version 3 (see `LICENSE`).
+© 2026 Jonathan Jackson. All rights reserved. The app's source code is not published; this repository holds the website and the app releases.
